@@ -1,4 +1,6 @@
 # Task3_SyncIntern-BostonHousePricePrediction
+Features of the Dataset explained below:
+
 CRIM - Per Capita Crime Rate
 
 ZN - Proportion of Residential Land Zoned for Lots over 25,000 sq. ft
