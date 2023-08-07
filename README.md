@@ -27,4 +27,4 @@ LSTAT - Percentage of Lower Status of the Population
 
 MEDV - Median value of owner-occupied homes in $1000....now renamed as "Price"
 
-It's a Regression problem where Price is our Target Variable here XGBoost model gave highest Adj_R_square and low RMSE
+It's a Regression problem where Price is our Target Variable. Here, XGBoost model gave highest Adj_R_square and low RMSE
